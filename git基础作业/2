@@ -1,0 +1,2 @@
+git rm --cached：git rm file 会将文件从缓存区和你的硬盘中（工作目录）删除。 如果要在工作目录中留着该文件，可以使用 git rm --cached
+git rm -f：删除之前修改过并且已经放到暂存区的文件
