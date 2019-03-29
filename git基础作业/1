@@ -1,1 +1,0 @@
-git add 和 git stage 没有区别，都是用于提交 git 仓库改动之后到暂存区
